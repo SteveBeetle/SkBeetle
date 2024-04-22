@@ -1,2 +1,1 @@
-# SkBeetle
-I can't believe this guy called ShaneBee stole my addon
+### I can't believe this guy called ShaneBee stole my addon
